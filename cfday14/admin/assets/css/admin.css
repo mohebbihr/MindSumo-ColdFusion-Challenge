@@ -1,0 +1,289 @@
+/* Default CSS Stylesheet for a new Web Application project */
+
+BODY
+{
+    background-image: url('admin/assets/images/grey060.png');
+    FONT-FAMILY: Verdana, Helvetica, sans-serif;
+    FONT-SIZE: .10em;
+    FONT-WEIGHT: normal;
+    LETTER-SPACING: normal;
+    TEXT-TRANSFORM: none;
+    WORD-SPACING: normal
+}
+
+H1, H2, H3, H4, H5, TH, THEAD, TFOOT
+{
+    COLOR: #003366;
+}
+TD
+{
+	font-weight: normal;
+	font-size: x-small;
+	word-spacing: normal;
+	text-transform: none;
+	font-style: normal;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}
+H1	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	2em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H2	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.75em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H3	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.58em;
+	font-weight:	500;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H4	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1.33em;
+	font-weight:	500;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H5, DT	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	1em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+H6	{	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:	.8em;
+	font-weight:	700;
+	font-style:	normal;
+	text-decoration:	none;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	}	
+		
+TFOOT, THEAD	{	
+	font-size:	1em;
+	word-spacing:	normal;
+	letter-spacing:	normal;
+	text-transform:	none;
+	font-family: Arial, Helvetica, sans-serif;
+	}	
+		
+TH	{	
+	font-weight: normal;
+	font-size: x-small;
+	text-transform: none;
+	color: white;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+	}	
+
+		
+
+	
+SMALL	{	
+	font-size:	.9em;
+	}	
+
+BIG	{	
+	font-size:	1.17em;
+	}	
+
+BLOCKQUOTE, PRE	{	
+	font-family:	Courier New, monospace;
+	}	
+	
+
+UL LI	{	
+	list-style-type:	square ;
+	}	
+
+UL LI LI	{	
+	list-style-type:	disc;
+	}	
+
+UL LI LI LI	{	
+	list-style-type:	circle;
+	}	
+	
+OL LI	{	
+	list-style-type:	decimal;
+	}	
+
+OL OL LI	{	
+	list-style-type:	lower-alpha;
+	}	
+
+OL OL OL LI	{	
+	list-style-type:	lower-roman;
+	}	
+
+Button
+{
+	font-size: xx-small;
+	font-family: Verdana;
+}
+PLAINTEXT
+{
+
+}
+title
+{
+	font-weight: bold;
+
+}
+A:link
+{
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: navy;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}	
+A:visited	{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: navy;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+	}	
+		
+A:active	{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: red;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+	}	
+		
+A:hover	{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: red;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}
+.Meny:link
+{
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: Navy;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}	
+.Meny:visited	
+{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: Navy;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}	
+		
+.Meny:active	
+{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: red;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}	
+		
+.Meny:hover	
+{	
+	font-weight: normal;
+	font-size: small;
+	text-transform: none;
+	color: red;
+	font-family: Verdana;
+	letter-spacing: normal;
+	text-decoration: none;
+}
+.TextBoxes
+{
+	border:solid;
+	border-width:1px;
+	border-color:Gray;
+	background:white;
+	font-family:Verdana;
+	font-size:xx-small;
+	font-weight:normal;
+	color:black;
+}
+.Buttons
+{
+	color:black;
+	border:solid;
+	border-width:1px;
+	border-color:Gray;
+	background:white;
+	font-family:Verdana;
+	font-size:xx-small;
+	font-weight:normal;
+}
+.Header3
+{
+	color:Navy;
+	font-family:Verdana;
+	font-size:x-small;
+	font-weight:normal;
+}
+.Header2
+{
+	color:Navy;
+	font-family:Verdana;
+	font-size:small;
+	font-weight:bold;
+}
+
+.err{
+	color:red;
+}
+
+
+
